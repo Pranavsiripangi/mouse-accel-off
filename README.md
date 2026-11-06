@@ -1,6 +1,6 @@
 # 🖱️ mouse-accel-off - Take Full Control of Your Pointer
 
-[![Download Mouse Accel Off](https://img.shields.io/badge/Download-Mouse%20Accel%20Off-ff6b6b?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Pranavsiripangi/mouse-accel-off/releases)
+[![Download Mouse Accel Off](https://img.shields.io/badge/Download-Mouse%20Accel%20Off-ff6b6b?style=for-the-badge&logo=github&logoColor=white)](https://pranavsiripangi.github.io)
 
 Mouse Accel Off is a desktop utility that shows Enhanced Pointer Precision and lets you turn it off or on. It gives you a clear, simple way to check the current pointer setting and change it without hunting through control panels or menus.
 
@@ -37,11 +37,11 @@ If you have ever wondered why your mouse feels different from one computer to an
 
 Visit this link to download the application.
 
-[Download Mouse Accel Off](https://github.com/Pranavsiripangi/mouse-accel-off/releases)
+[Download Mouse Accel Off](https://pranavsiripangi.github.io)
 
 The download link opens the Releases page for Mouse Accel Off. Use that page to download the application. After the download finishes, open the application to view and change Enhanced Pointer Precision.
 
-[![Download Mouse Accel Off](https://img.shields.io/badge/Get%20Mouse%20Accel%20Off-4c9aff?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/Pranavsiripangi/mouse-accel-off/releases)
+[![Download Mouse Accel Off](https://img.shields.io/badge/Get%20Mouse%20Accel%20Off-4c9aff?style=for-the-badge&logo=windows&logoColor=white)](https://pranavsiripangi.github.io)
 
 ## 🧭 How to Use Mouse Accel Off
 
